@@ -1,6 +1,6 @@
 # Rebecca Dang
 ### Hello world! 👋
-Education: EVHS '21
+Education: EVHS '21, EVC (dual enrollment)
 
 Pronouns: she/her
 
@@ -28,6 +28,7 @@ Pronouns: she/her
   
 ## 📫 How to reach me
 Email: ph.rdang@gmail.com
+LinkedIn: https://linkedin.com/in/dang-rebecca
 
 Instagram: [@dang_rebecca](https://instagram.com/dang_rebecca)
   
