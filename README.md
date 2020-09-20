@@ -7,6 +7,9 @@ Education:
 Pronouns: she/her
 
 ## 🔭 I’m currently working on ...
+**Enoch Bot**
+* A Discord bot designed for Code 4 Tomorrow servers
+
 **Vice President at Code 4 Tomorrow**
 * GitHub: [@code4tomorrow](https://github.com/code4tomorrow)
 * Visit [Code 4 Tomorrow](https://code4tomorrow.org)
@@ -23,6 +26,8 @@ Pronouns: she/her
 
 
 ## 🌱 I’m currently learning ...
+- Google Sheets API
+- discord.py API
 - Discrete Mathematics
 - GitHub Pages
   - Jekyll
