@@ -33,7 +33,6 @@ Pronouns: she/her
 
   
 ## 📫 How to reach me
-- Personal Email: ph.rdang@gmail.com
 - School Email: rdang@berkeley.edu
 - [LinkedIn](https://linkedin.com/in/dang-rebecca)
 - Instagram: [@dang_rebecca](https://instagram.com/dang_rebecca)
